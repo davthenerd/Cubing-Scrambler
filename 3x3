@@ -1,5 +1,3 @@
-from random import randint
-import argparse
 
 # Constants
 MOVES = ["U", "D", "L", "R", "F", "B"]
