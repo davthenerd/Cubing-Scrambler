@@ -1,7 +1,7 @@
 
 # Constants
 MOVES = ["U", "D", "L", "R", "F", "B"]
-OPPOSITES = ["D", "U", "R", "L", "B", "F"] # Wasteful, but fast & simple
+OPPOSITES = ["D", "U", "R", "L", "B", "F"] 
 
 def main(args):
     # Local variables
